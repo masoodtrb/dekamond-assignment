@@ -1,0 +1,113 @@
+/* YekanBakh Font Family */
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 100;
+    src: url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_01_Hairline.eot');
+    src:
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_01_Hairline.eot?#iefix') format('embedded-opentype'),
+        /* IE6-8 */
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/woff/YekanBakh(FaNum)_01_Hairline.woff') format('woff'),
+        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/ttf/YekanBakh(FaNum)_01_Hairline.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 200;
+    src: url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_02_Thin.eot');
+    src:
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_02_Thin.eot?#iefix') format('embedded-opentype'),
+        /* IE6-8 */
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/woff/YekanBakh(FaNum)_02_Thin.woff') format('woff'),
+        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/ttf/YekanBakh(FaNum)_02_Thin.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_03_Light.eot');
+    src:
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_03_Light.eot?#iefix') format('embedded-opentype'),
+        /* IE6-8 */
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/woff/YekanBakh(FaNum)_03_Light.woff') format('woff'),
+        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/ttf/YekanBakh(FaNum)_03_Light.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_04_Regular.eot');
+    src:
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_04_Regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-8 */
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/woff/YekanBakh(FaNum)_04_Regular.woff') format('woff'),
+        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/ttf/YekanBakh(FaNum)_04_Regular.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_05_Medium.eot');
+    src:
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_05_Medium.eot?#iefix') format('embedded-opentype'),
+        /* IE6-8 */
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/woff/YekanBakh(FaNum)_05_Medium.woff') format('woff'),
+        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/ttf/YekanBakh(FaNum)_05_Medium.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 600;
+    src: url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_06_Bold.eot');
+    src:
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_06_Bold.eot?#iefix') format('embedded-opentype'),
+        /* IE6-8 */
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/woff/YekanBakh(FaNum)_06_Bold.woff') format('woff'),
+        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/ttf/YekanBakh(FaNum)_06_Bold.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_07_Heavy.eot');
+    src:
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_07_Heavy.eot?#iefix') format('embedded-opentype'),
+        /* IE6-8 */
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/woff/YekanBakh(FaNum)_07_Heavy.woff') format('woff'),
+        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/ttf/YekanBakh(FaNum)_07_Heavy.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 800;
+    src: url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_08_Fat.eot');
+    src:
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/eot/YekanBakh(FaNum)_08_Fat.eot?#iefix') format('embedded-opentype'),
+        /* IE6-8 */
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/woff/YekanBakh(FaNum)_08_Fat.woff') format('woff'),
+        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('https://cdn.kilid.com/fonts/yekanbakhnew/ttf/YekanBakh(FaNum)_08_Fat.ttf') format('truetype');
+    font-display: swap;
+}
